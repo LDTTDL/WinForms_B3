@@ -1,0 +1,10 @@
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\bin\Debug\WinForm_B3.exe.config
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\bin\Debug\WinForm_B3.exe
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\bin\Debug\WinForm_B3.pdb
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.csproj.AssemblyReference.cache
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.Form1.resources
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.Properties.Resources.resources
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.csproj.GenerateResource.cache
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.csproj.CoreCompileInputs.cache
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.exe
+F:\QuanLyKhoHang\WinForm_B3\WinForm_B3\obj\Debug\WinForm_B3.pdb
